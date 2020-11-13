@@ -1,0 +1,9 @@
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: rgb(50, 50, 70);
+   color: rgb(200,200,200);
+}
+.jumbotron{
+    background-color: rgb(50, 70, 90);
+    color: rgb(200,200,200);
+}
